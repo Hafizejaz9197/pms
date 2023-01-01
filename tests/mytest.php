@@ -1,5 +1,6 @@
 <?php 
 
-echo "Test";
+echo "Test File";
+echo "Test File2";
 
 ?>
